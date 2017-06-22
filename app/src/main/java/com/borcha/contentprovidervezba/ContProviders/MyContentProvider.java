@@ -39,6 +39,11 @@ public class MyContentProvider extends ContentProvider {
                         String[] selectionArgs, String sortOrder) {
         // TODO: Implement this to handle query requests from clients.
         throw new UnsupportedOperationException("Not yet implemented");
+
+
+
+
+
     }
 
     @Override
