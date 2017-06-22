@@ -27,6 +27,8 @@
             android:authorities="com.borcha.contentprovidervezba.ContProviders.MyContentProvider"
             android:enabled="true"
             android:exported="true"/>
+
+
     </application>
 
 </manifest>
